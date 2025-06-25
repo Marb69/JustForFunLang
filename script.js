@@ -30,7 +30,7 @@ function SUB(){
         
         }
 
-      if(ans2.toLowerCase()==="javascript"){
+      if(ans2.toLowerCase()==="js"){
 
            correct++;
 
